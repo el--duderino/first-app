@@ -50,3 +50,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# new relic
+gem 'newrelic_rpm'
